@@ -1,4 +1,3 @@
 # Collaboration Guidelines
 
-Effective teamwork depends on continuous feedback and shared understanding.
-
+Collaboration requires transparency and rapid adaptation to change.
