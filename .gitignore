@@ -1,10 +1,1 @@
-# Editor and OS files
-.DS_Store
-*.swp
-*.swo
-
-# VSCode
-.vscode/
-
-# Backup files
-*~
+*.log
